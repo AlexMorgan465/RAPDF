@@ -1,1 +1,181 @@
-Diapositive « Expérience collaborateurs » présentant le Trust Index – Great Place to Work. En 2025, toutes les entités Cofidis en France et à l’international, ainsi que Monabanq, Creatis et Synergie, sont certifiées. Les scores affichés vont de 68 % à 82 % selon les entités, avec notamment 68 % pour Creatis et Cofidis Hongrie, et 82 % pour Cofidis Italie et Cofidis République tchèque. Une carte localise les différentes entités en Europe.
+├───ACM
+│   ├───A TRAITER
+│   │   ├───ASS-BIENS
+│   │   ├───ASS-COMPTA-CONTENTIEUX
+│   │   ├───ASS-EMPRUNTEURS
+│   │   ├───ASS-INDEMN-BIENS-PERS
+│   │   ├───ASS-PERS-COLL
+│   │   ├───ASS-PERS-IND
+│   │   ├───ASS-PROTECTION-JUR
+│   │   └───ASS-VIE-EPARGNE-RET
+│   │       ├───MONABANQ - VIE
+│   │       └───RETRAITE COLLECTIVE
+│   ├───EN COURS
+│   │   ├───ASS-BIENS
+│   │   ├───ASS-COMPTA-CONTENTIEUX
+│   │   ├───ASS-EMPRUNTEURS
+│   │   ├───ASS-INDEMN-BIENS-PERS
+│   │   ├───ASS-PERS-COLL
+│   │   ├───ASS-PERS-IND
+│   │   ├───ASS-PROTECTION-JUR
+│   │   └───ASS-VIE-EPARGNE-RET
+│   │       ├───MONABANQ - VIE
+│   │       └───RETRAITE COLLECTIVE
+│   ├───NON CONFORME
+│   │   ├───ASS-BIENS
+│   │   ├───ASS-COMPTA-CONTENTIEUX
+│   │   ├───ASS-EMPRUNTEURS
+│   │   ├───ASS-INDEMN-BIENS-PERS
+│   │   ├───ASS-PERS-COLL
+│   │   ├───ASS-PERS-IND
+│   │   ├───ASS-PROTECTION-JUR
+│   │   └───ASS-VIE-EPARGNE-RET
+│   │       ├───MONABANQ - VIE
+│   │       └───RETRAITE COLLECTIVE
+│   └───TRAITES
+│       ├───ASS-BIENS
+│       ├───ASS-COMPTA-CONTENTIEUX
+│       ├───ASS-EMPRUNTEURS
+│       ├───ASS-INDEMN-BIENS-PERS
+│       ├───ASS-PERS-COLL
+│       ├───ASS-PERS-IND
+│       ├───ASS-PROTECTION-JUR
+│       └───ASS-VIE-EPARGNE-RET
+│           ├───MONABANQ - VIE
+│           └───RETRAITE COLLECTIVE
+├───Bouygues telecom
+│   ├───A TRAITER
+│   ├───EN COURS
+│   ├───NON CONFORME
+│   └───TRAITES
+│       └───gdt_gp_ 2 juin_2025_p11_v3_lig~1
+├───CIC CIB ASSET SERVICING
+│   ├───A TRAITER
+│   │   └───Agence Clientèle Déposée
+│   ├───EN COURS
+│   │   └───Agence Clientèle Déposée
+│   ├───NON CONFORME
+│   │   └───Agence Clientèle Déposée
+│   └───TRAITES
+│       └───Agence Clientèle Déposée
+├───CMMABN
+│   ├───A TRAITER
+│   ├───EN COURS
+│   ├───NON CONFORME
+│   └───TRAITES
+├───CMO
+│   ├───A TRAITER
+│   │   ├───BAD
+│   │   ├───Cartes bancaires
+│   │   ├───Compte courant
+│   │   ├───Epargne bancaire
+│   │   ├───Epargne financière
+│   │   ├───Packages
+│   │   └───Tarif
+│   ├───EN COURS
+│   │   ├───BAD
+│   │   ├───Cartes bancaires
+│   │   ├───Compte courant
+│   │   ├───Epargne bancaire
+│   │   ├───Epargne financière
+│   │   ├───Packages
+│   │   └───Tarif
+│   ├───NON CONFORME
+│   │   ├───BAD
+│   │   ├───Cartes bancaires
+│   │   ├───Compte courant
+│   │   ├───Epargne bancaire
+│   │   ├───Epargne financière
+│   │   ├───Packages
+│   │   └───Tarif
+│   └───TRAITES
+│       ├───BAD
+│       ├───Cartes bancaires
+│       ├───Compte courant
+│       ├───Epargne bancaire
+│       ├───Epargne financière
+│       ├───Packages
+│       └───Tarif
+├───COFIDIS FRANCE
+│   ├───A TRAITER
+│   │   ├───COFIDIS FRANCE-DMA
+│   │   │   ├───DMA – Agence WEB
+│   │   │   ├───DMA – Marque et Stratégie
+│   │   │   └───DMA – Performance Digitale
+│   │   └───COFIDIS FRANCE-DPA
+│   │       ├───DPA – Domaine Marketing
+│   │       ├───DPA – Service Marketing
+│   │       └───DPA – Service Relation
+│   ├───EN COURS
+│   │   ├───COFIDIS FRANCE-DMA
+│   │   │   ├───DMA – Agence WEB
+│   │   │   ├───DMA – Marque et Stratégie
+│   │   │   └───DMA – Performance Digitale
+│   │   └───COFIDIS FRANCE-DPA
+│   │       ├───DPA – Domaine Marketing
+│   │       ├───DPA – Service Marketing
+│   │       └───DPA – Service Relation
+│   ├───NON CONFORME
+│   └───TRAITES
+├───CONTRATHEQUE
+│   ├───CONDITIONS GENERALES
+│   │   ├───A TRAITER
+│   │   ├───EN COURS
+│   │   ├───NON CONFORME
+│   │   └───TRAITES
+│   ├───DOCUMENT D'INFORMATION TARIFAIRE
+│   │   ├───A TRAITER
+│   │   ├───EN COURS
+│   │   ├───NON CONFORME
+│   │   └───TRAITES
+│   ├───GARANTIES
+│   │   ├───A TRAITER
+│   │   ├───EN COURS
+│   │   ├───NON CONFORME
+│   │   └───TRAITES
+│   └───POLITIQUE DE PROTECTION
+│       ├───A TRAITER
+│       ├───EN COURS
+│       ├───NON CONFORME
+│       └───TRAITES
+├───CREATIS
+│   ├───A TRAITER
+│   ├───EN COURS
+│   ├───NON CONFORME
+│   └───TRAITES
+├───DIRCO
+│   ├───A TRAITER
+│   │   ├───CIC
+│   │   └───CM
+│   ├───EN COURS
+│   │   ├───CIC
+│   │   └───CM
+│   ├───NON CONFORME
+│   │   ├───CIC
+│   │   └───CM
+│   ├───OLD
+│   │   ├───A TRAITER
+│   │   ├───EN COURS
+│   │   ├───NON CONFORME
+│   │   └───TRAITES
+│   └───TRAITES
+│       ├───CIC
+│       └───CM
+├───DIRCOM
+│   ├───A TRAITER
+│   │   ├───CIC
+│   │   └───CM
+│   ├───EN COURS
+│   │   ├───CIC
+│   │   └───CM
+│   ├───NON CONFORME
+│   │   ├───CIC
+│   │   └───CM
+│   └───TRAITES
+│       ├───CIC
+│       └───CM
+└───MONABANQ
+    ├───A TRAITER
+    ├───EN COURS
+    ├───NON CONFORME
+    └───TRAITES
