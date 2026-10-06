@@ -1,0 +1,400 @@
+[
+    {
+        "id":  "61b222bb-e657-43fb-994c-79b9df3eaa8c",
+        "sourceKey":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx|Feuil1|11",
+        "sourceFile":  "LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourcePath":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourceSheet":  "Feuil1",
+        "sourceRow":  11,
+        "nomCsp":  "",
+        "contratBadSource":  "\tSDE0292842741001C6",
+        "idtConnexionSource":  "217949401558 ",
+        "mdpCspSource":  "123456Az",
+        "numeroAbonneCspSource":  "070023402849291",
+        "ibanSource":  "FR76 1009 6180 5000 0543 4450 164",
+        "raisonSociale":  "CHARPENTIERS CASADEENS ",
+        "siret":  "40791272400041",
+        "dateImport":  "2026-10-01T16:03:49.5007885+02:00",
+        "agent":  "ALAMIAAH",
+        "dateAffectation":  "2026-10-01T16:04:56.5951765+02:00",
+        "datePriseEnCharge":  "2026-10-01T16:18:13.5453759+02:00",
+        "dmtSecondes":  533,
+        "dateFin":  "2026-10-01T16:27:06.6880029+02:00",
+        "statut":  "TERMINE",
+        "typeFacture":  "E+R",
+        "dateLimite":  "",
+        "numeroAbonne":  "070035659063857",
+        "idt":  "237449401254",
+        "motDePasse":  "123456Az",
+        "contratBad":  "SDE02928427410028R",
+        "csp":  "OK",
+        "commentaire":  "",
+        "dateModification":  "2026-10-06T12:37:39.7757662+02:00",
+        "dateExport":  null,
+        "journal":  [
+                        {
+                            "date":  "2026-10-01T16:03:49.5007885+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Import",
+                            "detail":  "LOKOA éditeur Abonnés v.01.10.26.xlsx"
+                        },
+                        {
+                            "date":  "2026-10-01T16:04:56.5987871+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Affectation",
+                            "detail":  "ALAMIAAH"
+                        },
+                        {
+                            "date":  "2026-10-01T16:18:13.5453759+02:00",
+                            "auteur":  "ALAMIAAH",
+                            "action":  "Prise en charge",
+                            "detail":  "CHARPENTIERS CASADEENS "
+                        },
+                        {
+                            "date":  "2026-10-01T16:27:06.6880029+02:00",
+                            "auteur":  "ALAMIAAH",
+                            "action":  "Traitement terminÃ©",
+                            "detail":  "DMT 533 secondes"
+                        },
+                        {
+                            "date":  "2026-10-01T16:36:32.7336358+02:00",
+                            "auteur":  "ALAMIAAH",
+                            "action":  "Modification agent",
+                            "detail":  "CHARPENTIERS CASADEENS "
+                        },
+                        {
+                            "date":  "2026-10-01T17:28:57.3039202+02:00",
+                            "auteur":  "ALAMIAAH",
+                            "action":  "Modification agent",
+                            "detail":  "CHARPENTIERS CASADEENS "
+                        },
+                        {
+                            "date":  "2026-10-06T10:10:42.6997631+02:00",
+                            "auteur":  "ALAMIAAH",
+                            "action":  "Modification agent",
+                            "detail":  "CHARPENTIERS CASADEENS "
+                        },
+                        {
+                            "date":  "2026-10-06T12:37:39.7757662+02:00",
+                            "auteur":  "ALAMIAAH",
+                            "action":  "Modification agent",
+                            "detail":  "CHARPENTIERS CASADEENS "
+                        }
+                    ]
+    },
+    {
+        "id":  "e6c3899a-8689-4be4-b8b4-9c984bb0ebd5",
+        "sourceKey":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx|Feuil1|12",
+        "sourceFile":  "LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourcePath":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourceSheet":  "Feuil1",
+        "sourceRow":  12,
+        "nomCsp":  "",
+        "contratBadSource":  "\tSDE0292842741001C6",
+        "idtConnexionSource":  "217949401558 ",
+        "mdpCspSource":  "123456Az",
+        "numeroAbonneCspSource":  "070023402849291",
+        "ibanSource":  "FR76 1009 6180 5000 0543 4450 164",
+        "raisonSociale":  "HOLDING BATIMENTS ENERGIES ",
+        "siret":  "84511286100024",
+        "dateImport":  "2026-10-01T16:03:49.5607997+02:00",
+        "agent":  "NAKHLAAY",
+        "dateAffectation":  "2026-10-01T16:31:46.9924762+02:00",
+        "datePriseEnCharge":  "2026-10-01T16:44:32.4589677+02:00",
+        "dmtSecondes":  798,
+        "dateFin":  "2026-10-01T16:57:51.4104070+02:00",
+        "statut":  "TERMINE",
+        "numeroAbonne":  "070035662463134",
+        "idt":  "237449401454",
+        "motDePasse":  "123456Az",
+        "contratBad":  "SDE02928427410028T",
+        "csp":  "OK",
+        "commentaire":  "",
+        "dateModification":  "2026-10-01T17:04:43.0636650+02:00",
+        "journal":  [
+                        {
+                            "date":  "2026-10-01T16:03:49.5607997+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Import",
+                            "detail":  "LOKOA éditeur Abonnés v.01.10.26.xlsx"
+                        },
+                        {
+                            "date":  "2026-10-01T16:31:46.9951932+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Affectation",
+                            "detail":  "NAKHLAAY"
+                        },
+                        {
+                            "date":  "2026-10-01T16:44:32.4589677+02:00",
+                            "auteur":  "NAKHLAAY",
+                            "action":  "Prise en charge",
+                            "detail":  "HOLDING BATIMENTS ENERGIES "
+                        },
+                        {
+                            "date":  "2026-10-01T16:57:51.4104070+02:00",
+                            "auteur":  "NAKHLAAY",
+                            "action":  "Traitement terminÃ©",
+                            "detail":  "DMT 798 secondes"
+                        },
+                        {
+                            "date":  "2026-10-01T17:04:43.0636650+02:00",
+                            "auteur":  "NAKHLAAY",
+                            "action":  "Modification agent",
+                            "detail":  "HOLDING BATIMENTS ENERGIES "
+                        }
+                    ],
+        "dateExport":  "2026-10-01T17:10:44.4273309+02:00",
+        "typeFacture":  "E+R",
+        "dateLimite":  ""
+    },
+    {
+        "id":  "d23565e1-a482-4760-a7a3-6705ee77032f",
+        "sourceKey":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx|Feuil1|13",
+        "sourceFile":  "LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourcePath":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourceSheet":  "Feuil1",
+        "sourceRow":  13,
+        "nomCsp":  "",
+        "contratBadSource":  "\tSDE0292842741001C6",
+        "idtConnexionSource":  "217949401558 ",
+        "mdpCspSource":  "123456Az",
+        "numeroAbonneCspSource":  "070023402849291",
+        "ibanSource":  "FR76 1009 6180 5000 0543 4450 164",
+        "raisonSociale":  "ENERGIES CASADEENNES ",
+        "siret":  "51879003500019",
+        "dateImport":  "2026-10-01T16:03:49.5838363+02:00",
+        "agent":  "SALMAMO",
+        "dateAffectation":  "2026-10-01T16:32:00.2206766+02:00",
+        "datePriseEnCharge":  "2026-10-01T17:00:07.6302765+02:00",
+        "dmtSecondes":  389,
+        "dateFin":  "2026-10-01T17:06:37.2007884+02:00",
+        "statut":  "TERMINE",
+        "numeroAbonne":  "070035663672486",
+        "idt":  "237449401554",
+        "motDePasse":  "123456Az",
+        "contratBad":  "SDE02928427410028U",
+        "csp":  "ok",
+        "commentaire":  "",
+        "dateModification":  "2026-10-01T17:12:05.9337681+02:00",
+        "dateExport":  null,
+        "journal":  [
+                        {
+                            "date":  "2026-10-01T16:03:49.5838363+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Import",
+                            "detail":  "LOKOA éditeur Abonnés v.01.10.26.xlsx"
+                        },
+                        {
+                            "date":  "2026-10-01T16:32:00.2216747+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Affectation",
+                            "detail":  "SALMAMO"
+                        },
+                        {
+                            "date":  "2026-10-01T17:00:07.6302765+02:00",
+                            "auteur":  "SALMAMO",
+                            "action":  "Prise en charge",
+                            "detail":  "ENERGIES CASADEENNES "
+                        },
+                        {
+                            "date":  "2026-10-01T17:06:37.2007884+02:00",
+                            "auteur":  "SALMAMO",
+                            "action":  "Traitement terminÃ©",
+                            "detail":  "DMT 389 secondes"
+                        },
+                        {
+                            "date":  "2026-10-01T17:07:17.5299984+02:00",
+                            "auteur":  "SALMAMO",
+                            "action":  "Modification agent",
+                            "detail":  "ENERGIES CASADEENNES "
+                        },
+                        {
+                            "date":  "2026-10-01T17:12:05.9337681+02:00",
+                            "auteur":  "SALMAMO",
+                            "action":  "Modification agent",
+                            "detail":  "ENERGIES CASADEENNES "
+                        }
+                    ],
+        "typeFacture":  "E+R",
+        "dateLimite":  ""
+    },
+    {
+        "id":  "1fa02822-271a-4f21-acf0-91644b6a96f1",
+        "sourceKey":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx|Feuil1|14",
+        "sourceFile":  "LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourcePath":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\LOKOA éditeur Abonnés v.01.10.26.xlsx",
+        "sourceSheet":  "Feuil1",
+        "sourceRow":  14,
+        "nomCsp":  "",
+        "contratBadSource":  "\tSDE0292842741001C6",
+        "idtConnexionSource":  "217949401558 ",
+        "mdpCspSource":  "123456Az",
+        "numeroAbonneCspSource":  "070023402849291",
+        "ibanSource":  "FR76 1009 6180 5000 0543 4450 164",
+        "raisonSociale":  "OLIANNES INVESTS",
+        "siret":  "95171189400018",
+        "dateImport":  "2026-10-01T16:03:49.5974142+02:00",
+        "agent":  "LYACOUHO",
+        "dateAffectation":  "2026-10-01T16:33:35.8746630+02:00",
+        "datePriseEnCharge":  "2026-10-01T16:44:04.5851649+02:00",
+        "dmtSecondes":  859,
+        "dateFin":  "2026-10-01T16:58:23.8229944+02:00",
+        "statut":  "TERMINE",
+        "numeroAbonne":  "070035662576479",
+        "idt":  "237449401354",
+        "motDePasse":  "123456Az",
+        "contratBad":  "SDE02928427410028S",
+        "csp":  "ok",
+        "commentaire":  "",
+        "dateModification":  "2026-10-01T17:03:36.4874945+02:00",
+        "journal":  [
+                        {
+                            "date":  "2026-10-01T16:03:49.5974142+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Import",
+                            "detail":  "LOKOA éditeur Abonnés v.01.10.26.xlsx"
+                        },
+                        {
+                            "date":  "2026-10-01T16:33:35.8756622+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Affectation",
+                            "detail":  "LYACOUHO"
+                        },
+                        {
+                            "date":  "2026-10-01T16:44:04.5851649+02:00",
+                            "auteur":  "LYACOUHO",
+                            "action":  "Prise en charge",
+                            "detail":  "OLIANNES INVESTS"
+                        },
+                        {
+                            "date":  "2026-10-01T16:58:23.8229944+02:00",
+                            "auteur":  "LYACOUHO",
+                            "action":  "Traitement terminÃ©",
+                            "detail":  "DMT 859 secondes"
+                        },
+                        {
+                            "date":  "2026-10-01T17:03:36.4874945+02:00",
+                            "auteur":  "LYACOUHO",
+                            "action":  "Modification agent",
+                            "detail":  "OLIANNES INVESTS"
+                        }
+                    ],
+        "dateExport":  "2026-10-01T17:10:44.5591634+02:00",
+        "typeFacture":  "E+R",
+        "dateLimite":  ""
+    },
+    {
+        "id":  "13898f93-e10f-42bc-8d60-8f5cd129c991",
+        "sourceKey":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\IDSOFT editeur ETS v.02.10.2026.xlsx|Feuil1|11",
+        "sourceFile":  "IDSOFT editeur ETS v.02.10.2026.xlsx",
+        "sourcePath":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\IDSOFT editeur ETS v.02.10.2026.xlsx",
+        "sourceSheet":  "Feuil1",
+        "sourceRow":  11,
+        "nomCsp":  "",
+        "contratBadSource":  "SDE02928427410012V",
+        "idtConnexionSource":  "217549401859 ",
+        "mdpCspSource":  "Idsoft2026!",
+        "numeroAbonneCspSource":  "070019959942434",
+        "ibanSource":  "FR76 3004 7146 7000 0158 3760 181",
+        "raisonSociale":  "JBS PROPRETE",
+        "siret":  "43870665700154",
+        "dateImport":  "2026-10-05T11:56:31.5336437+02:00",
+        "agent":  "LYACOUHO",
+        "dateAffectation":  "2026-10-05T12:01:30.5254174+02:00",
+        "datePriseEnCharge":  "2026-10-05T12:10:54.7897206+02:00",
+        "numeroAbonne":  "070035778684899",
+        "idt":  "237449401955",
+        "motDePasse":  "123456Az",
+        "contratBad":  "SDE029284274100292",
+        "csp":  "ok",
+        "commentaire":  "",
+        "dmtSecondes":  560,
+        "dateFin":  "2026-10-05T12:20:15.0911826+02:00",
+        "statut":  "TERMINE",
+        "journal":  [
+                        {
+                            "date":  "2026-10-05T11:56:31.5336437+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Import",
+                            "detail":  "IDSOFT editeur ETS v.02.10.2026.xlsx"
+                        },
+                        {
+                            "date":  "2026-10-05T12:01:30.5274081+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Affectation",
+                            "detail":  "LYACOUHO"
+                        },
+                        {
+                            "date":  "2026-10-05T12:10:54.7897206+02:00",
+                            "auteur":  "LYACOUHO",
+                            "action":  "Prise en charge",
+                            "detail":  "JBS PROPRETE"
+                        },
+                        {
+                            "date":  "2026-10-05T12:20:15.0911826+02:00",
+                            "auteur":  "LYACOUHO",
+                            "action":  "Traitement terminÃ©",
+                            "detail":  "DMT 560 secondes"
+                        }
+                    ],
+        "typeFacture":  "E",
+        "dateLimite":  "05/10/26"
+    },
+    {
+        "id":  "6413d6a0-f069-4b50-99ad-7a00929d8b01",
+        "sourceKey":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\IDSOFT editeur ETS v.02.10.2026.xlsx|Feuil1|12",
+        "sourceFile":  "IDSOFT editeur ETS v.02.10.2026.xlsx",
+        "sourcePath":  "\\\\uf11-A01\\EIDS_EPITHETE_BO_MANAGERS\\Source\\IDSOFT editeur ETS v.02.10.2026.xlsx",
+        "sourceSheet":  "Feuil1",
+        "sourceRow":  12,
+        "nomCsp":  "",
+        "contratBadSource":  "SDE02928427410012V",
+        "idtConnexionSource":  "217549401859 ",
+        "mdpCspSource":  "Idsoft2026!",
+        "numeroAbonneCspSource":  "070019959942434",
+        "ibanSource":  "FR76 3004 7146 7000 0158 3760 181",
+        "raisonSociale":  "OXALIS PROPRETE",
+        "siret":  "80056678800025",
+        "dateImport":  "2026-10-05T11:56:31.5609436+02:00",
+        "agent":  "NAKHLAAY",
+        "dateAffectation":  "2026-10-05T12:01:40.3619422+02:00",
+        "datePriseEnCharge":  "2026-10-05T12:07:22.5252768+02:00",
+        "numeroAbonne":  "070035778450896",
+        "idt":  "237449401855",
+        "motDePasse":  "123456Az",
+        "contratBad":  "SDE029284274100291",
+        "csp":  "ok",
+        "commentaire":  "",
+        "dmtSecondes":  422,
+        "dateFin":  "2026-10-05T12:14:24.9292559+02:00",
+        "statut":  "TERMINE",
+        "journal":  [
+                        {
+                            "date":  "2026-10-05T11:56:31.5609436+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Import",
+                            "detail":  "IDSOFT editeur ETS v.02.10.2026.xlsx"
+                        },
+                        {
+                            "date":  "2026-10-05T12:01:40.3629472+02:00",
+                            "auteur":  "RHOUDAOT",
+                            "action":  "Affectation",
+                            "detail":  "NAKHLAAY"
+                        },
+                        {
+                            "date":  "2026-10-05T12:07:22.5252768+02:00",
+                            "auteur":  "NAKHLAAY",
+                            "action":  "Prise en charge",
+                            "detail":  "OXALIS PROPRETE"
+                        },
+                        {
+                            "date":  "2026-10-05T12:14:24.9292559+02:00",
+                            "auteur":  "NAKHLAAY",
+                            "action":  "Traitement terminÃ©",
+                            "detail":  "DMT 422 secondes"
+                        }
+                    ],
+        "typeFacture":  "E",
+        "dateLimite":  ""
+    }
+]
