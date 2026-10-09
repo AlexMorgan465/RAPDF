@@ -1,5 +1,12 @@
-$DP = "\\Uf11-a03\EIDS-EAA-PDF-STATIQUES\ACCESSIBILITE"
+$DP = "\\uf11-a03\EIDS-EAA-PDF-STATIQUES\ACCESSIBILITE"
 
-Get-ChildItem -LiteralPath $DP -Directory |
-Select-Object Name, CreationTime, LastWriteTime |
-Format-Table -AutoSize
+Get-ChildItem -LiteralPath $DP -Recurse -File |
+Select-Object `
+    Name,
+    DirectoryName,
+    CreationTime,
+    LastWriteTime |
+Export-Csv "$env:USERPROFILE\Desktop\dates_documents.csv" `
+    -Delimiter ";" `
+    -NoTypeInformation `
+    -Encoding UTF8
