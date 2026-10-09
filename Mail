@@ -1,1 +1,5 @@
-Schéma d’une maison en coupe illustrant quatre types de travaux de rénovation énergétique : installation de panneaux photovoltaïques, installation de chauffage, isolation thermique et installation d’un ballon thermodynamique ou solaire.
+$DP = "\\Uf11-a03\EIDS-EAA-PDF-STATIQUES\ACCESSIBILITE"
+
+Get-ChildItem -LiteralPath $DP -Directory |
+Select-Object Name, CreationTime, LastWriteTime |
+Format-Table -AutoSize
